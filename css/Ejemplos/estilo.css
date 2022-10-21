@@ -4,21 +4,19 @@ body{
 
 }
 
-h1,h2,h3 {
-    font-size: 30px;
+.primero {
     font-weight: bold;
     font-family: Arial;
-    color: #FFFFFF;
+    color: blue;
+}
+.pares {
+    font-weight: bold;
+    font-family: Arial;
+    color: red;
 }
 
-h1{
-    font-size: 30px;
-}
-
-h2{
-    font-size: 30%;
-}
-
-h3{
-    font-size: 30em;
+.impares{
+    font-weight: bold;
+    font-family: Arial;
+    color: green;
 }
