@@ -4,9 +4,21 @@ body{
 
 }
 
-p {
+h1,h2,h3 {
     font-size: 30px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: white;
+    font-weight: bold;
+    font-family: Arial;
+    color: #FFFFFF;
+}
 
+h1{
+    font-size: 30px;
+}
+
+h2{
+    font-size: 30%;
+}
+
+h3{
+    font-size: 30em;
 }
