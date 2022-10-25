@@ -1,22 +1,31 @@
-body{
+*{
 
-    background-color: black;
-
+    font: 1em/1.3 Arial, Helvetica, sans-serif;
 }
 
-.primero {
-    font-weight: bold;
-    font-family: Arial;
-    color: blue;
-}
-.pares {
-    font-weight: bold;
-    font-family: Arial;
-    color: red;
+p{
+    color: #555;
 }
 
-.impares{
+#primero p{
+    color: #336699;;
+}
+
+#primero em { 
+    background: #FFFFCC; 
+    padding: .1em;
+}
+
+a{
+    color: #CC3300;
+}
+
+em.especial {
+    background: #FFCC99; 
+    border: 1px solid #FF9900; 
+    padding: .1em;
+}
+
+.normal span{
     font-weight: bold;
-    font-family: Arial;
-    color: green;
 }
