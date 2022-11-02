@@ -1,0 +1,26 @@
+html{
+    background-image: url("../resources/dayz_enjoyer.jpg");
+    background-position-y: bottom;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    color: darkred; 
+    background: cyan;
+    opacity: 80%;
+    /* hsl(0, 100%, 29%) */
+}
+
+p{
+    color: rgb(#065e13);
+    /* hsl(121, 100%, 26%) */
+
+}
+
+em{
+    color: #000080;
+    /* hsl(230, 58%, 26%) */
+
+}
